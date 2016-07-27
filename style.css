@@ -1,0 +1,41 @@
+/*
+ Theme Name:   My Portfolio Website
+ Theme URI:    https://github.com/Themekraft/_tk
+ Description:  A website made by myself, Alexander Raschid, fto be a portfolio
+ Author:       Alexander E. Raschid	
+ Author URI:   http://www.linkedin.com/alexander-raschid
+ Template:     _tk-master
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  _tk-master
+*/
+
+
+/* HEADER STYLE */
+#masthead{
+	background-color: #00BCD4;
+}
+
+
+body { 
+	padding-top: 50px;
+	background-color: #B2EBF2;
+ }
+
+ h1,h2,h3,h4,h5,h6,
+ p,
+ a{
+ 	color: white;
+ }
+
+
+/* NAVBAR STYLES */
+ .navbar,
+ .navbar-default .navbar-nav>li>a,
+ .navbar-default .navbar-brand{
+ 	background-color: #0097A7;
+ 	color: white;
+ 	border-color: #0097A7;
+ }
